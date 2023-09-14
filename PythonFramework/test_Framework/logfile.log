@@ -1,0 +1,42 @@
+2023-09-13 09:56:01,667:INFO :test_e2e :getting card titles
+2023-09-13 09:57:22,305:INFO :test_e2e :getting card titles
+2023-09-13 09:57:22,784:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 10:46:20,968:INFO :test_e2e :getting card titles
+2023-09-13 10:46:21,405:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 10:46:21,697:WARNING :test_e2e :Entering country name
+2023-09-13 10:48:14,449:INFO :test_e2e :getting card titles
+2023-09-13 10:48:14,823:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 10:48:15,124:WARNING :test_e2e :Entering country name
+2023-09-13 10:48:20,528:WARNING :test_e2e :country name selected
+2023-09-13 12:38:09,129:INFO :test_e2e :getting card titles
+2023-09-13 12:38:09,623:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 12:38:09,967:WARNING :test_e2e :Entering country name
+2023-09-13 12:38:15,435:WARNING :test_e2e :country name selected
+2023-09-13 18:14:25,034:INFO :test_e2e :getting card titles
+2023-09-13 18:14:25,648:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 18:14:26,096:WARNING :test_e2e :Entering country name
+2023-09-13 18:14:31,549:WARNING :test_e2e :country name selected
+2023-09-13 18:16:42,000:INFO :test_e2e :getting card titles
+2023-09-13 18:16:42,497:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 18:16:42,833:WARNING :test_e2e :Entering country name
+2023-09-13 18:16:48,269:WARNING :test_e2e :country name selected
+2023-09-13 18:16:58,329:INFO :test_e2e :getting card titles
+2023-09-13 18:16:58,955:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 18:16:59,372:WARNING :test_e2e :Entering country name
+2023-09-13 18:17:04,859:WARNING :test_e2e :country name selected
+2023-09-13 18:22:10,425:INFO :test_e2e :getting card titles
+2023-09-13 18:22:10,941:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 18:22:11,326:WARNING :test_e2e :Entering country name
+2023-09-13 18:22:16,765:WARNING :test_e2e :country name selected
+2023-09-13 18:41:45,265:INFO :test_e2e :getting card titles
+2023-09-13 18:41:45,701:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 18:41:46,036:WARNING :test_e2e :Entering country name
+2023-09-13 18:41:51,458:WARNING :test_e2e :country name selected
+2023-09-13 18:45:08,501:INFO :test_e2e :getting card titles
+2023-09-13 18:45:09,106:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 18:45:09,542:WARNING :test_e2e :Entering country name
+2023-09-13 18:45:15,067:WARNING :test_e2e :country name selected
+2023-09-13 18:49:39,428:INFO :test_e2e :getting card titles
+2023-09-13 18:49:40,027:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 18:49:40,471:WARNING :test_e2e :Entering country name
+2023-09-13 18:49:45,989:WARNING :test_e2e :country name selected

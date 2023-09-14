@@ -1,0 +1,8 @@
+2023-09-13 12:29:28,033:INFO :test_e2e :getting card titles
+2023-09-13 12:29:28,491:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 12:29:28,812:WARNING :test_e2e :Entering country name
+2023-09-13 12:29:34,207:WARNING :test_e2e :country name selected
+2023-09-13 12:36:28,193:INFO :test_e2e :getting card titles
+2023-09-13 12:36:28,711:WARNING :test_e2e :['iphone X', 'Samsung Note 8', 'Nokia Edge', 'Blackberry']
+2023-09-13 12:36:29,068:WARNING :test_e2e :Entering country name
+2023-09-13 12:36:34,511:WARNING :test_e2e :country name selected
